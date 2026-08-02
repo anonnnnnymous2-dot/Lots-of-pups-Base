@@ -7,5 +7,5 @@
 	"requirements": [ "moreslugcats", "Antoneeee.PupBase" ],
 	"requirements_names": [ "More Slugcats Expansion", "PupBase" ],
 	"tags": [ "Custom Slugcat" ],
-    "checksum_override_version": false,
+    "checksum_override_version": false
 }
