@@ -9,6 +9,7 @@ using UnityEngine;
 
 namespace PupBase
 {
+	/// Replace with your own info! V
     [BepInPlugin("MySlugpup.PupBaseMod", "ModNameHere", "1.2.10")]
     internal class Plugin : BaseUnityPlugin
     {
