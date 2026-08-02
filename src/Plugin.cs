@@ -34,6 +34,7 @@ namespace PupBase
                 if (!isInit)
                 {
                     KewlSlugpupNames.RegisterValues();
+					/// Replace with your own info! V
                     bool flag = global::ModManager.ActiveMods.Any((global::ModManager.Mod mod) => mod.id == "MySlugpup.PupBaseMod");
                     if (flag)
                     {
